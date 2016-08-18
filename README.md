@@ -1,2 +1,2 @@
 # MapsDemo
-Coding project from Udemy.com: "The Complete Android Developer Course". Introduction to google maps
+Coding project from Udemy.com: "The Complete Android Developer Course".<br />Introduction to google maps
